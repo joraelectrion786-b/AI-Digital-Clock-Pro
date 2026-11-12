@@ -1,0 +1,6 @@
+{
+  "name": "AI Digital Clock Pro",
+  "description": "Transform any screen into a premium, customizable digital clock with AI styling, alarms, timer, stopwatch, and world clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
